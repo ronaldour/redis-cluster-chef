@@ -1,0 +1,5 @@
+# frozen_string_literal: true
+source 'https://supermarket.chef.io'
+
+metadata
+cookbook 'redisio', '~> 3.0.0'
